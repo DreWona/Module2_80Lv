@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="#Environment Art"/>
+<node id="#Interviews"/>
+<node id="#Blender"/>
+<node id="#Photoshop"/>
+<node id="#Character Art"/>
+<node id="#Marmoset Toolbag"/>
+<node id="#Marvelous Designer"/>
+<node id="#Maya"/>
+<node id="#ZBrush"/>
+<node id="#Substance 3D Painter"/>
+<node id="#Arnold"/>
+<node id="#News"/>
+<node id="#Video Games"/>
+<node id="#Business"/>
+<node id="#Unreal Engine"/>
+<node id="#Game Development"/>
+<node id="#Marketplace"/>
+<node id="#Unity"/>
+<node id="#Godot"/>
+<node id="#3D Art"/>
+<node id="#Sculpting"/>
+<node id="#IndieDev"/>
+<node id="#Events"/>
+<node id="#VFX"/>
+<node id="#Props"/>
+<node id="#Animation"/>
+<node id="#Stylized Art"/>
+<node id="#Tutorial"/>
+<node id="#Feature"/>
+<node id="#RizomUV"/>
+<node id="#SpeedTree"/>
+<node id="#Game Engine"/>
+<node id="#Cinematics"/>
+<node id="#C4D"/>
+<node id="#Substance 3D Designer"/>
+<node id="#Concept Art"/>
+<node id="#Nuke"/>
+<node id="#3ds Max"/>
+<node id="#RealityCapture"/>
+<node id="#Houdini"/>
+<node id="#Quixel"/>
+<node id="#VR"/>
+<node id="#Tech"/>
+<edge source="#Environment Art" target="#Interviews">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Environment Art" target="#Blender">
+  <data key="d0">20</data>
+</edge>
+<edge source="#Environment Art" target="#Photoshop">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Environment Art" target="#News">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Environment Art" target="#Marketplace">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Unity">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Animation">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Unreal Engine">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Environment Art" target="#Stylized Art">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Environment Art" target="#Substance 3D Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Substance 3D Painter">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Environment Art" target="#Props">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Character Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Concept Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#ZBrush">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Marmoset Toolbag">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Environment Art" target="#Quixel">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Interviews" target="#Blender">
+  <data key="d0">44</data>
+</edge>
+<edge source="#Interviews" target="#Photoshop">
+  <data key="d0">20</data>
+</edge>
+<edge source="#Interviews" target="#Character Art">
+  <data key="d0">32</data>
+</edge>
+<edge source="#Interviews" target="#Marmoset Toolbag">
+  <data key="d0">28</data>
+</edge>
+<edge source="#Interviews" target="#Marvelous Designer">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Interviews" target="#Maya">
+  <data key="d0">32</data>
+</edge>
+<edge source="#Interviews" target="#ZBrush">
+  <data key="d0">44</data>
+</edge>
+<edge source="#Interviews" target="#Substance 3D Painter">
+  <data key="d0">48</data>
+</edge>
+<edge source="#Interviews" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Interviews" target="#Props">
+  <data key="d0">32</data>
+</edge>
+<edge source="#Interviews" target="#Video Games">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Interviews" target="#Game Development">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Interviews" target="#Game Engine">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Interviews" target="#Unreal Engine">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Interviews" target="#Substance 3D Designer">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Interviews" target="#RizomUV">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Interviews" target="#Nuke">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Interviews" target="#IndieDev">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Interviews" target="#Business">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Interviews" target="#Quixel">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Interviews" target="#Sculpting">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Photoshop">
+  <data key="d0">24</data>
+</edge>
+<edge source="#Blender" target="#News">
+  <data key="d0">52</data>
+</edge>
+<edge source="#Blender" target="#Unreal Engine">
+  <data key="d0">36</data>
+</edge>
+<edge source="#Blender" target="#Maya">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Blender" target="#ZBrush">
+  <data key="d0">40</data>
+</edge>
+<edge source="#Blender" target="#Substance 3D Painter">
+  <data key="d0">48</data>
+</edge>
+<edge source="#Blender" target="#Marketplace">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Blender" target="#Character Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Props">
+  <data key="d0">32</data>
+</edge>
+<edge source="#Blender" target="#Marvelous Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Tutorial">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Blender" target="#3D Art">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Blender" target="#Sculpting">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Feature">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Marmoset Toolbag">
+  <data key="d0">24</data>
+</edge>
+<edge source="#Blender" target="#RizomUV">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Blender" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Animation">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Blender" target="#Substance 3D Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Blender" target="#Stylized Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Blender" target="#Quixel">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Photoshop" target="#Character Art">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Photoshop" target="#Marmoset Toolbag">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Photoshop" target="#Marvelous Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Photoshop" target="#Maya">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Photoshop" target="#ZBrush">
+  <data key="d0">28</data>
+</edge>
+<edge source="#Photoshop" target="#Substance 3D Painter">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Photoshop" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Photoshop" target="#News">
+  <data key="d0">20</data>
+</edge>
+<edge source="#Photoshop" target="#Props">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Photoshop" target="#Unreal Engine">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Photoshop" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Photoshop" target="#RizomUV">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Photoshop" target="#Stylized Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Photoshop" target="#3ds Max">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Photoshop" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Photoshop" target="#Substance 3D Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Character Art" target="#Marmoset Toolbag">
+  <data key="d0">24</data>
+</edge>
+<edge source="#Character Art" target="#Marvelous Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Character Art" target="#Maya">
+  <data key="d0">20</data>
+</edge>
+<edge source="#Character Art" target="#ZBrush">
+  <data key="d0">36</data>
+</edge>
+<edge source="#Character Art" target="#Substance 3D Painter">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Character Art" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Character Art" target="#News">
+  <data key="d0">24</data>
+</edge>
+<edge source="#Character Art" target="#Props">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Character Art" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Character Art" target="#Concept Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Character Art" target="#Sculpting">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Character Art" target="#Substance 3D Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Marvelous Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Maya">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#ZBrush">
+  <data key="d0">44</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Substance 3D Painter">
+  <data key="d0">32</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Arnold">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#News">
+  <data key="d0">24</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Feature">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Props">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Unreal Engine">
+  <data key="d0">20</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#RizomUV">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#3ds Max">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#RealityCapture">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Quixel">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marmoset Toolbag" target="#Substance 3D Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marvelous Designer" target="#Maya">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Marvelous Designer" target="#ZBrush">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Marvelous Designer" target="#Substance 3D Painter">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Marvelous Designer" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Marvelous Designer" target="#Props">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marvelous Designer" target="#News">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marvelous Designer" target="#Marketplace">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marvelous Designer" target="#Tutorial">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Maya" target="#ZBrush">
+  <data key="d0">36</data>
+</edge>
+<edge source="#Maya" target="#Substance 3D Painter">
+  <data key="d0">36</data>
+</edge>
+<edge source="#Maya" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Maya" target="#News">
+  <data key="d0">28</data>
+</edge>
+<edge source="#Maya" target="#Unreal Engine">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Maya" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Maya" target="#Props">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Maya" target="#Nuke">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Maya" target="#Marketplace">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Maya" target="#Substance 3D Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Maya" target="#Animation">
+  <data key="d0">4</data>
+</edge>
+<edge source="#ZBrush" target="#Substance 3D Painter">
+  <data key="d0">52</data>
+</edge>
+<edge source="#ZBrush" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#ZBrush" target="#News">
+  <data key="d0">48</data>
+</edge>
+<edge source="#ZBrush" target="#Unreal Engine">
+  <data key="d0">24</data>
+</edge>
+<edge source="#ZBrush" target="#Sculpting">
+  <data key="d0">16</data>
+</edge>
+<edge source="#ZBrush" target="#Props">
+  <data key="d0">24</data>
+</edge>
+<edge source="#ZBrush" target="#Feature">
+  <data key="d0">4</data>
+</edge>
+<edge source="#ZBrush" target="#RizomUV">
+  <data key="d0">12</data>
+</edge>
+<edge source="#ZBrush" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#ZBrush" target="#Stylized Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#ZBrush" target="#3ds Max">
+  <data key="d0">4</data>
+</edge>
+<edge source="#ZBrush" target="#Substance 3D Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Arnold">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#News">
+  <data key="d0">28</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Unreal Engine">
+  <data key="d0">32</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Props">
+  <data key="d0">36</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Tutorial">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Feature">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#RizomUV">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Substance 3D Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Stylized Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Nuke">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Substance 3D Painter" target="#Quixel">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#Video Games">
+  <data key="d0">88</data>
+</edge>
+<edge source="#News" target="#Business">
+  <data key="d0">36</data>
+</edge>
+<edge source="#News" target="#Unreal Engine">
+  <data key="d0">64</data>
+</edge>
+<edge source="#News" target="#Game Development">
+  <data key="d0">52</data>
+</edge>
+<edge source="#News" target="#Marketplace">
+  <data key="d0">52</data>
+</edge>
+<edge source="#News" target="#Unity">
+  <data key="d0">40</data>
+</edge>
+<edge source="#News" target="#Godot">
+  <data key="d0">40</data>
+</edge>
+<edge source="#News" target="#3D Art">
+  <data key="d0">44</data>
+</edge>
+<edge source="#News" target="#Sculpting">
+  <data key="d0">36</data>
+</edge>
+<edge source="#News" target="#IndieDev">
+  <data key="d0">40</data>
+</edge>
+<edge source="#News" target="#Events">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#VFX">
+  <data key="d0">16</data>
+</edge>
+<edge source="#News" target="#Animation">
+  <data key="d0">32</data>
+</edge>
+<edge source="#News" target="#Stylized Art">
+  <data key="d0">8</data>
+</edge>
+<edge source="#News" target="#Tutorial">
+  <data key="d0">40</data>
+</edge>
+<edge source="#News" target="#Props">
+  <data key="d0">8</data>
+</edge>
+<edge source="#News" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#RizomUV">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#Cinematics">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#C4D">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#Concept Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#3ds Max">
+  <data key="d0">8</data>
+</edge>
+<edge source="#News" target="#RealityCapture">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#Houdini">
+  <data key="d0">16</data>
+</edge>
+<edge source="#News" target="#VR">
+  <data key="d0">4</data>
+</edge>
+<edge source="#News" target="#Tech">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Video Games" target="#Business">
+  <data key="d0">28</data>
+</edge>
+<edge source="#Video Games" target="#Unreal Engine">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Video Games" target="#Game Development">
+  <data key="d0">28</data>
+</edge>
+<edge source="#Video Games" target="#IndieDev">
+  <data key="d0">36</data>
+</edge>
+<edge source="#Video Games" target="#Unity">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Video Games" target="#Godot">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Video Games" target="#Game Engine">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Video Games" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Business" target="#IndieDev">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Business" target="#Tech">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#Game Development">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Unreal Engine" target="#IndieDev">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Unreal Engine" target="#Animation">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#Stylized Art">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Unreal Engine" target="#Feature">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#Props">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Unreal Engine" target="#RizomUV">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Unreal Engine" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#Substance 3D Designer">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Unreal Engine" target="#Tutorial">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Unreal Engine" target="#3D Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#Quixel">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#Houdini">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unreal Engine" target="#VFX">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Game Development" target="#Godot">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Game Development" target="#IndieDev">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Game Development" target="#Unity">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Game Development" target="#Game Engine">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Game Development" target="#Tutorial">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marketplace" target="#Unity">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Marketplace" target="#VFX">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Marketplace" target="#Godot">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marketplace" target="#Animation">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marketplace" target="#Houdini">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Marketplace" target="#VR">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Marketplace" target="#Tutorial">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unity" target="#IndieDev">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Unity" target="#VFX">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Unity" target="#VR">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Godot" target="#IndieDev">
+  <data key="d0">12</data>
+</edge>
+<edge source="#Godot" target="#Events">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Godot" target="#VFX">
+  <data key="d0">4</data>
+</edge>
+<edge source="#3D Art" target="#Sculpting">
+  <data key="d0">8</data>
+</edge>
+<edge source="#3D Art" target="#Tutorial">
+  <data key="d0">8</data>
+</edge>
+<edge source="#3D Art" target="#Events">
+  <data key="d0">8</data>
+</edge>
+<edge source="#3D Art" target="#Animation">
+  <data key="d0">8</data>
+</edge>
+<edge source="#3D Art" target="#Props">
+  <data key="d0">4</data>
+</edge>
+<edge source="#3D Art" target="#Concept Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Sculpting" target="#Tutorial">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Events" target="#Events">
+  <data key="d0">4</data>
+</edge>
+<edge source="#VFX" target="#Animation">
+  <data key="d0">4</data>
+</edge>
+<edge source="#VFX" target="#Houdini">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Props" target="#Feature">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Props" target="#RizomUV">
+  <data key="d0">16</data>
+</edge>
+<edge source="#Props" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Props" target="#Concept Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Props" target="#Nuke">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Props" target="#Substance 3D Designer">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Animation" target="#Stylized Art">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Animation" target="#Cinematics">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Animation" target="#C4D">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Animation" target="#Houdini">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Animation" target="#Tutorial">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Tutorial" target="#Houdini">
+  <data key="d0">8</data>
+</edge>
+<edge source="#Feature" target="#RizomUV">
+  <data key="d0">4</data>
+</edge>
+<edge source="#RizomUV" target="#SpeedTree">
+  <data key="d0">4</data>
+</edge>
+<edge source="#Cinematics" target="#C4D">
+  <data key="d0">4</data>
+</edge>
+<edge source="#3ds Max" target="#RealityCapture">
+  <data key="d0">4</data>
+</edge>
+</graph></graphml>
