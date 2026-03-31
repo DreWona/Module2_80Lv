@@ -1,5 +1,5 @@
 # Module2_80Lv
-code for module 2 assignment
+Code for Module 2 Web tag analysis
 
 # Medium Article
 - https://medium.com/@awonasue/webpage-tags-analysis-d11424091c0c
